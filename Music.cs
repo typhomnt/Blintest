@@ -13,6 +13,6 @@ public class Music
         this.Id = 0;
         this.Nom_mp3 = "";
         this.Nom_picture = "";
-        this.next = 0;
+        this.next = NULL;
 	}
 }
