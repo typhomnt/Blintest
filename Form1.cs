@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace $safeprojectname$
+namespace AniBlindTest
 {
     public partial class Accueil : Form
     {
