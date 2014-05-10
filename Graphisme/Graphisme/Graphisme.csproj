@@ -50,6 +50,7 @@
     <Compile Include="Accueil.designer.cs">
       <DependentUpon>Accueil.cs</DependentUpon>
     </Compile>
+    <Compile Include="Liste.cs" />
     <Compile Include="Music.cs" />
     <Compile Include="Jeu.cs">
       <SubType>Form</SubType>

@@ -23,3 +23,11 @@ C:\Users\estelle\Desktop\Ani BlindTest\Graphisme\Graphisme\bin\Debug\Graphisme.e
 C:\Users\estelle\Desktop\Ani BlindTest\Graphisme\Graphisme\bin\Debug\Graphisme.pdb
 C:\Users\estelle\Desktop\Ani BlindTest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.pdb
 C:\Users\estelle\Desktop\Ani BlindTest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.csprojResolveAssemblyReference.cache
+C:\Users\estelle\blindtest\Blintest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.exe
+C:\Users\estelle\blindtest\Blintest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.pdb
+C:\Users\estelle\blindtest\Blintest\Graphisme\Graphisme\bin\Debug\Graphisme.exe
+C:\Users\estelle\blindtest\Blintest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.csprojResolveAssemblyReference.cache
+C:\Users\estelle\blindtest\Blintest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.Accueil.resources
+C:\Users\estelle\blindtest\Blintest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.Jeu.resources
+C:\Users\estelle\blindtest\Blintest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.Properties.Resources.resources
+C:\Users\estelle\blindtest\Blintest\Graphisme\Graphisme\obj\x86\Debug\Graphisme.csproj.GenerateResource.Cache

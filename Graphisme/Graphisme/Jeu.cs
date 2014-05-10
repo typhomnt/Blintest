@@ -268,7 +268,9 @@ namespace Graphisme
         private void Next_Click(object sender, EventArgs e)
         {
             m.stop();
-            MusicName.Text = "";
+            int u = 0;
+            MusicName.Text = Liste.Blindtest[u].File_mp3;
+            Liste.Blindtest.RemoveAt(u);
         }
 
 

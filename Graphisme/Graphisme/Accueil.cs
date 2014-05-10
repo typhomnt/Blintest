@@ -19,6 +19,10 @@ namespace Graphisme
         {
             InitializeComponent();
             BtnMoins.Enabled = false;
+
+            //List<Liste.Mus> Blindtest = new List<Liste.Mus>();
+            Liste.Create_List(Liste.Blindtest, Liste.All_File("..\\..\\..\\..\\Music"), Liste.All_File("..\\..\\..\\..\\Picture"));
+            Liste.Display_List(Liste.Blindtest);
         }
 
         public void BtnPlus_Click(object sender, EventArgs e)
